@@ -33,5 +33,5 @@
         <li>Geographical Analysis
     </ul>
   <li> The data is here => https://www.kaggle.com/absin7/zomato-bangalore-dataset
-  <li> Notebook on Kaggle => https://www.kaggle.com/ahmedmohamedmahrous/zomato-restaurants-analysis/data
+  <li> Notebook on Kaggle => https://www.kaggle.com/ahmedmohamedmahrous/zomato-restaurants-analysis/notebook
 </div>
